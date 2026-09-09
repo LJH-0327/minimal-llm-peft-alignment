@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+
+# Large local models
+models/
+
+# Raw datasets / HuggingFace cache
+datasets/raw/
+*.arrow
+
+# Training checkpoints and weights
+**/checkpoint-*/
+*.safetensors
+optimizer.pt
+scheduler.pt
+rng_state.pth
+
+# Adapters
+adapters/
+
+# System
+.DS_Store
+Thumbs.db

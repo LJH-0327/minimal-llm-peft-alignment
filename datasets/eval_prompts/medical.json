@@ -1,0 +1,100 @@
+[
+  {
+    "instruction": "Explain why SGLT2 inhibitors can reduce hospitalization for heart failure in patients with type 2 diabetes.",
+    "input": ""
+  },
+  {
+    "instruction": "Does reducing C-reactive protein (CRP) necessarily reduce mortality? Explain your reasoning.",
+    "input": ""
+  },
+  {
+    "instruction": "A 65-year-old patient presents with chest pain, dyspnea, elevated BNP, and reduced ejection fraction. What is the most likely diagnosis and why?",
+    "input": ""
+  },
+  {
+    "instruction": "Explain why long-term use of NSAIDs increases the risk of gastric ulcers.",
+    "input": ""
+  },
+  {
+    "instruction": "Describe how vaccines generate long-term immune protection.",
+    "input": ""
+  },
+  {
+    "instruction": "Can antibiotics effectively treat viral infections? Explain your answer.",
+    "input": ""
+  },
+  {
+    "instruction": "Summarize the following medical abstract and identify one potential limitation of the study.",
+    "input": "Background: Chronic inflammation contributes to cancer progression. In this randomized trial, patients receiving anti-inflammatory therapy showed reduced inflammatory biomarkers and slower tumor growth over a 12-month follow-up period."
+  },
+  {
+    "instruction": "Explain the difference between correlation and causation in clinical research.",
+    "input": ""
+  },
+
+  {
+    "instruction": "A company's revenue increased by 20% to $120 million this year. What was its revenue last year?",
+    "input": ""
+  },
+  {
+    "instruction": "Explain why a company's revenue may increase while its net profit decreases.",
+    "input": ""
+  },
+  {
+    "instruction": "Describe the Discounted Cash Flow (DCF) valuation method in simple terms.",
+    "input": ""
+  },
+  {
+    "instruction": "Does a price-to-earnings (P/E) ratio of 100 always indicate that a stock is overvalued? Explain.",
+    "input": ""
+  },
+  {
+    "instruction": "How do rising interest rates typically affect stock prices? Explain the economic reasoning.",
+    "input": ""
+  },
+  {
+    "instruction": "A company reports rapidly growing revenue but declining operating cash flow for several years. What might this indicate?",
+    "input": ""
+  },
+  {
+    "instruction": "An investment earns an annual return of 5% compounded yearly. Approximately how much will $10,000 grow to after 10 years?",
+    "input": ""
+  },
+  {
+    "instruction": "Can anyone accurately predict tomorrow's Bitcoin price? Explain why or why not.",
+    "input": ""
+  },
+
+  {
+    "instruction": "Explain the concept of breach of contract and the legal consequences that may follow.",
+    "input": ""
+  },
+  {
+    "instruction": "A signed a contract with B, but B failed to deliver the goods as agreed, causing financial loss to A. Discuss whether B should bear legal responsibility.",
+    "input": ""
+  },
+  {
+    "instruction": "Explain the principle of the presumption of innocence.",
+    "input": ""
+  },
+  {
+    "instruction": "Does every breach of contract constitute a criminal offense? Explain the difference between civil and criminal liability.",
+    "input": ""
+  },
+  {
+    "instruction": "A lends B $10,000 without a written contract, but the bank transfer record is available. Discuss whether A has evidence to support repayment.",
+    "input": ""
+  },
+  {
+    "instruction": "Explain the meaning of the burden of proof and describe situations where the burden of proof may shift.",
+    "input": ""
+  },
+  {
+    "instruction": "Why is legal interpretation necessary instead of relying solely on the literal wording of statutes?",
+    "input": ""
+  },
+  {
+    "instruction": "Must all contracts be notarized in order to be legally valid? Explain.",
+    "input": ""
+  }
+]

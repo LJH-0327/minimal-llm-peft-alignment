@@ -1,0 +1,9 @@
+from .paths import MODEL_PATH
+
+REFERENCE_MODEL_PATH = MODEL_PATH
+
+DPO_BETA = 0.1
+
+DPO_LOSS_TYPE = "sigmoid"
+
+PRECOMPUTE_REF_LOG_PROBS = False

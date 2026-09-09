@@ -1,0 +1,12 @@
+
+MODEL_NAME = "Qwen2.5-0.5B"
+MODEL_REPO = "Qwen/Qwen2.5-0.5B"
+MODEL_TYPE = "Qwen"
+
+MODEL_NAME = "Qwen2.5-0.5B-Instruct"
+MODEL_REPO = "Qwen/Qwen2.5-0.5B-Instruct"
+MODEL_TYPE = "Qwen"
+
+MODEL_NAME = "TinyLlama-1.1B-Chat-v1.0"
+MODEL_REPO = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+MODEL_TYPE = "TinyLlama"
